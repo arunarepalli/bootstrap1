@@ -1,0 +1,8 @@
+.img-jmb{
+    background-image: url(jumbotron1.jpeg);
+    background-size: cover;
+    height: 675px;
+  }
+  .reg{
+    height: 60px;
+  }
